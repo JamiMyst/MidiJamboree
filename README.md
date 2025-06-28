@@ -1,6 +1,6 @@
 ﻿# MidiJamboree
 Download my midis.
 
-These are all free to use, I found them all online.
+Oh hey. You found where I keep ALL of it. Good work!
 
-Most of these originate from the [Renns MIDI experience](https://johnjrenns.wordpress.com/2022/08/04/the-renns-midi-experience-update-2-august-3rd-2022/), the Lakh Dataset, friends, and Musescore.com.
+These are the Renns Midi Experience and Lakh Datasets.
