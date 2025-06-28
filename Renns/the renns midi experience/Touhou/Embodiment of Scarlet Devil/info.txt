@@ -1,0 +1,25 @@
+Archive created by -=MIRSOFT=-
+Look for game MIDs at http://go.to/gamemids
+
+*** Archive info ***
+Archiver: Knurek
+Type: Game rip
+Format: MID
+Original Composer: ZUN
+Sequencer: ZUN
+Num of tunes: 17
+Complete: 100%
+
+*** Game info ***
+Name: Embodiment of Scarlet Devil
+Platform: PC Windows
+Year: 2002
+Genre: Shooter
+Publisher: Team Shanghai Alice
+Developer: Team Shanghai Alice
+
+*** Additional info ***
+One of the three Touhou game music sets (others two are Imperishable Night and Perfect Cherry Blossom) which are from famous series of doujin games. 
+Very nice, prog-rockish music, though the WAVE renditions in the game sound a bit better. :)
+
+Track titles/additional info located here: http://www.pooshlmer.com/touhouwiki/index.php/Embodiment_of_Scarlet_Devil:_Music
